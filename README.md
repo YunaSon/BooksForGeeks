@@ -63,17 +63,21 @@ Not everyone is a Geek. Not everyone wants to be a Geek. But there are few who w
 45) Microsoft System Center: Configuration Manager Field Experience
 46) Microsoft System Center: Designing Orchestrator Runbooks
 47) The Security Development Lifecycle
+48) Ansible for DevOps: Server and configuration management for humans by Jeff Geerling
 
 
 ### People Who Helped till date:
 People Donated:
-1) Karthik Srivijay (GitHub: @KartSriv) Books: 47
-2) Want your name here? Please donate books at KarthikSrivijay1@gmail.com
+1) Karthik Srivijay (GitHub: @KartSriv) Books: 42
+2) Ashutosh Pandey; Books: 2
+3) Aakansha Singh (Bestie); Books: 4
+4) Fellow Geek (Name withheld as requseted by contributor) Book(s): 1
+5) Want your name here? Please donate books at hello@karthiksrivijay.tech
 
-List Refreshed Every 24 HOURS. If not refreshed Contact Me: KarthikSrivijay1@gmail.com
+List Refreshed Every 24 HOURS. If not refreshed Contact Me: hello@karthiksrivijay.tech
 
 ## Have a book you want to share?
-Mail me your Name and the PDF of the book or the Link at KarthikSrivijay1@gmail.com. 
+Mail me your Name and the PDF of the book or the Link at hello@karthiksrivijay.tech
 
 ## Acknowledgments
 
